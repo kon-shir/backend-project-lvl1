@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "first project - brain-game",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kon-shir/backend-project-lvl1.git"
+  },
+  "author": "Shiryaev Konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kon-shir/backend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/kon-shir/backend-project-lvl1#readme"
+}
