@@ -8,4 +8,4 @@
 [![asciicast](https://asciinema.org/a/rXZRMEyX1QOvqcMY9t7a26OO8.svg)](https://asciinema.org/a/rXZRMEyX1QOvqcMY9t7a26OO8)
 
 ### 'brain-even'
-[![asciicast](https://asciinema.org/a/HYGtUr9ADRV26PWTfLLQvelg6.svg)](https://asciinema.org/a/HYGtUr9ADRV26PWTfLLQvelg6)
+[![asciicast](https://asciinema.org/a/DLth3orgEjhvvR68JHqZYwaA1.svg)](https://asciinema.org/a/DLth3orgEjhvvR68JHqZYwaA1)
