@@ -1,5 +1,4 @@
 #!/usr/bin/env node
+import * as index from '../src/engine.js';
 
-import { welcomeName } from '../src/cli.js';
-
-console.log(welcomeName);
+index.runGame();

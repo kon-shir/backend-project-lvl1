@@ -1,7 +1,4 @@
 #!/usr/bin/env node
+import brainEven from '../src/games/even.js';
 
-import './brain-games.js';
-import { introText, checkFunction, temp } from '../src/index.js';
-
-console.log(introText);
-console.log(checkFunction(temp));
+brainEven();
