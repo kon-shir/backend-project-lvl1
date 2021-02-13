@@ -9,3 +9,6 @@
 
 ### 'brain-even'
 [![asciicast](https://asciinema.org/a/DLth3orgEjhvvR68JHqZYwaA1.svg)](https://asciinema.org/a/DLth3orgEjhvvR68JHqZYwaA1)
+
+### 'brain-gcd'
+[![asciicast](https://asciinema.org/a/5qGjPlnkKKlBdPgSsT8Twgz5c.svg)](https://asciinema.org/a/5qGjPlnkKKlBdPgSsT8Twgz5c)
