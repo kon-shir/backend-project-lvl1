@@ -19,30 +19,30 @@ The set of mini-games includes the following games:
 ### Installation
 1. Clone the repo
 ```sh 
-git clone https://github.com/alexandertolchinsky/backend-project-lvl1.git
+git clone https://github.com/kon-shir/backend-project-lvl1.git
 ```
 2. Install package locally
 ```sh
 npm link
 ```
 ## How to run
-mini-game "Check for parity" 
+game "Check for parity" 
 ```sh 
 brain-even
 ```
-mini-game "Calculator
+game "Calculator
 ```sh 
 brain-calc
 ```
-mini-game "GCD"
+game "GCD"
 ```sh 
 brain-gcd
 ```
-mini-game "Arithmetic progression"
+game "Arithmetic progression"
 ```sh
 brain-progression
 ```
-mini-game "Is the number simple?"
+game "Is the number simple?"
 ```sh 
 brain-prime
 ```
