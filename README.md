@@ -4,10 +4,9 @@
 ### Maintainability Badge
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
-# A set of mini-games "Mind Games"
+# Collection of games "Mind Games"
 ## About The Project
-This is a training project in which I implemented a set of mini-games launched from the console.
-Each game consists of 3 rounds. The player wins if all the questions were answered correctly. 
+This is the first project in which I implemented a set of games that run in a terminal. Each game consists of 3 rounds. The player wins if all questions are answered correctly. 
 
 The set of mini-games includes the following games:
 1) Check for parity (the player must answer, is the even number?)
